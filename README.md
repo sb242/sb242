@@ -15,7 +15,7 @@ Welcome to my GitHub profile! My name is Spencer and I am a full stack web devel
 ### Frameworks, Libraries, and Environments
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Ajax](https://img.shields.io/badge/Ajx-405D59?style=for-the-badge)
+![Ajax](https://img.shields.io/badge/Ajax-405D59?style=for-the-badge)
 ![Express](https://img.shields.io/badge/Express.js-204D59?style=for-the-badge)
 ![EJS](https://img.shields.io/badge/EJS-404D59?style=for-the-badge)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
